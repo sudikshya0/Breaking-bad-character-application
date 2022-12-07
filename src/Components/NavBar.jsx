@@ -1,7 +1,5 @@
 import React from 'react'
 import logo from'../images/logo.png'
-import bg from'../images/bg.jpg'
-import spinner from'../images/spinner.gif'
 function NavBar() {
   return (
     <header className='center'>
